@@ -58,11 +58,7 @@ The Hogwarts background used in this student project is the Wikimedia Commons ph
 `Hogwarts (28731128404).jpg` by HarshLight, licensed CC BY 2.0.
 Source: https://commons.wikimedia.org/wiki/File:Hogwarts_(28731128404).jpg
 
-## Extra files added
-- `admin_login.php`
-- `user_login.php`
-- `edit_book.php`
-- `delete_book.php`
+
 
 ## Installation with XAMPP
 
