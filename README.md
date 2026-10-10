@@ -2,7 +2,6 @@
 
 A beginner-friendly PHP + MySQL Library Management System with a Hogwarts-inspired magical archive interface.
 
-## What changed
 
 ### Separate authentication entrances
 - `user_login.php` — student/user login only.
